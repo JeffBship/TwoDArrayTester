@@ -1,1 +1,1 @@
-# TwoDArrayTester is a test class for use with CS-152 TwoDArray assignment.
+# TwoDArrayTester is a test harness for use with CS-152 TwoDArray assignment.
